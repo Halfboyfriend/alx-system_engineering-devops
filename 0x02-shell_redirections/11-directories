@@ -1,2 +1,2 @@
 #!/bin/bash
-fing . -type f -print | wc -l
+fing . -type d -print | wc -l
