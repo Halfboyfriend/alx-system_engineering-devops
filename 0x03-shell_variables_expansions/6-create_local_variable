@@ -1,2 +1,2 @@
 #!/bin/bash
-set.sorted BEST=School
+BEST="School"
