@@ -1,2 +1,2 @@
 #!/bin/bash
-echo PATH | ls /PATH | wc -1
+echo PATH | printenv | less | wc -1
