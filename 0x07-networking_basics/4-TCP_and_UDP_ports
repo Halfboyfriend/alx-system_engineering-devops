@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#What is a TCP and UDP port?
+#Displays listening ports. Includes listening sockets as well
+
+netstat -l --program
